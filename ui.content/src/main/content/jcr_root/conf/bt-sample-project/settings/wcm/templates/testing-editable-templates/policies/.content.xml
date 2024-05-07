@@ -2,7 +2,7 @@
 <jcr:root xmlns:jcr="http://www.jcp.org/jcr/1.0" xmlns:nt="http://www.jcp.org/jcr/nt/1.0" xmlns:cq="http://www.day.com/jcr/cq/1.0" xmlns:sling="http://sling.apache.org/jcr/sling/1.0"
     jcr:primaryType="cq:Page">
     <jcr:content
-        cq:lastModified="{Date}2024-05-03T08:35:50.176+05:30"
+        cq:lastModified="{Date}2024-05-06T19:15:01.106+05:30"
         cq:lastModifiedBy="admin"
         cq:policy="bt-sample-project/components/page/policy"
         jcr:primaryType="nt:unstructured"
@@ -12,15 +12,11 @@
             jcr:primaryType="nt:unstructured"
             sling:resourceType="wcm/core/components/policies/mapping">
             <container
-                cq:policy="bt-sample-project/components/container/left_container_policy"
+                cq:policy="bt-sample-project/components/container/policy_380327419562400"
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="wcm/core/components/policies/mapping"/>
-            <container_64005615
-                cq:policy="bt-sample-project/components/container/policy_3634255370818600"
-                jcr:primaryType="nt:unstructured"
-                sling:resourceType="wcm/core/components/policies/mapping"/>
-            <container_560332994
-                cq:policy="bt-sample-project/components/container/policy_1574694950110"
+            <container_1742535380
+                cq:policy="bt-sample-project/components/container/policy_380327438919100"
                 jcr:primaryType="nt:unstructured"
                 sling:resourceType="wcm/core/components/policies/mapping"/>
         </root>
